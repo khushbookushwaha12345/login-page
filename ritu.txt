@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>login page</h1> 
+<form action="/action_page.php">
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" value="John"><br><br>
+  <input type="password" placeholder="Enter Password" name="password" required><br></form> <br>  
+            <button type="submit">Login</button>  
+  <input type="submit" value="Submit">
+</form> 
+</body>
+</html>
